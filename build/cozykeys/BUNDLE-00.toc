@@ -1,0 +1,3 @@
+([('cozykeys',
+   '/Users/alejandrobermudez/Desktop/happykeys/CozyKeys/dist/cozykeys',
+   'EXECUTABLE')],)
